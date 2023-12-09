@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NoteApp</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="invalid_name">Empty name field</string>
+    <string name="missing_text">Missing text in note</string>
+    <string name="note_created">Note created</string>
+    <string name="note_missing" tools:ignore="ExtraTranslation">No notes</string>
+</resources>
